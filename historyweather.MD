@@ -133,6 +133,8 @@ showtext.end()
 dev.off()
 ```
 
+![emoji1](https://github.com/ljtyduyu/historyweather/blob/master/Image/emoji1.png)
+
 second theme:
 -------------
 ```r
@@ -147,7 +149,7 @@ mytheme2<-theme(
          )
 ```
 
-second phone:
+second photo:
 ------------
 
 ```r
@@ -166,4 +168,10 @@ mytheme2
 showtext.end()
 dev.off()
 ```
+
+![emoji2](https://github.com/ljtyduyu/historyweather/blob/master/Image/emoji2.png)
+
+and this one is a small-background in the second photo  which i search on the web.<br>
+
+![wheather](https://github.com/ljtyduyu/historyweather/blob/master/Image/weather.png)
 
