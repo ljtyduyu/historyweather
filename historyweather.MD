@@ -133,7 +133,10 @@ showtext.end()
 dev.off()
 ```
 
-![emoji1](https://github.com/ljtyduyu/historyweather/blob/master/Image/emoji1.png)
+<div  align="center">    
+<img src="https://github.com/ljtyduyu/historyweather/blob/master/Image/emoji1.png" width = "1000" height = "870" alt="emoji1" align=center />
+</div>
+
 
 second theme:
 -------------
@@ -169,12 +172,15 @@ showtext.end()
 dev.off()
 ```
 
-![emoji2](https://github.com/ljtyduyu/historyweather/blob/master/Image/emoji2.png)
+<div  align="center">    
+<img src="https://github.com/ljtyduyu/historyweather/blob/master/Image/emoji2.png" width = "800" height = "800" alt="emoji2" align=center />
+</div>
+
 
 and this one is a small-background in the second photo  which i search on the web.<br>
 
 <div  align="center">    
-<img src="https://github.com/ljtyduyu/historyweather/blob/master/Image/weather.png" width = "300" height = "300" alt="wheather" align=center />
+<img src="https://github.com/ljtyduyu/historyweather/blob/master/Image/weather.png" width = "600" height = "600" alt="wheather" align=center />
 </div>
 
 
