@@ -134,7 +134,7 @@ dev.off()
 ```
 
 <div  align="center">    
-<img src="https://github.com/ljtyduyu/historyweather/blob/master/Image/emoji1.png" width = "7500" height = "652.5" alt="emoji1" align=center />
+<img src="https://github.com/ljtyduyu/historyweather/blob/master/Image/emoji1.png" width = "750" height = "652.5" alt="emoji1" align=center />
 </div>
 
 
@@ -180,7 +180,7 @@ dev.off()
 and this one is a small-background in the second photo  which i search on the web.<br>
 
 <div  align="center">    
-<img src="https://github.com/ljtyduyu/historyweather/blob/master/Image/weather.png" width = "500" height = "500" alt="wheather" align=center />
+<img src="https://github.com/ljtyduyu/historyweather/blob/master/Image/weather.png" width = "350" height = "350" alt="wheather" align=center />
 </div>
 
 
