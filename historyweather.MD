@@ -43,7 +43,7 @@ a failure attempt:
 #以上代码写了一半写不下去了，我有rvest为啥要用RCurl，肯定自己脑抽筋了！
 ```
 
-then i find a batter way to get the target data.
+then i find a better way to get the target data.
 -----------------------------------------------
 
 ```r
