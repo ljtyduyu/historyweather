@@ -175,3 +175,29 @@ and this one is a small-background in the second photo  which i search on the we
 
 ![wheather](https://github.com/ljtyduyu/historyweather/blob/master/Image/weather.png)
 
+
+------------------------------------------------------------------------------------------------
+
+联系方式：
+----------------------------------------------------
+wechat：ljty1991  <br>
+Mail:578708965@qq.com <br>
+个人公众号：数据小魔方（datamofang） <br>
+团队公众号：EasyCharts <br>
+qq交流群：[魔方学院]553270834
+
+个人简介：
+-------------------------------------------------
+**杜雨** <br>
+财经专业研究僧； <br>
+伪数据可视化达人； <br>
+文科背景的编程小白； <br>
+喜欢研究商务图表与地理信息数据可视化，爱倒腾PowerBI、SAP DashBoard、Tableau、R ggplot2、Think-cell chart等诸如此类的数据可视化软件，创建并运营微信公众号“数据小魔方”。 <br>
+Mail:578708965@qq.com <br>
+![resume](https://github.com/ljtyduyu/FontMap-of-China/blob/master/Image/resume.png)
+
+-------------------------------------------
+
+备注信息：
+----------------------------------------------------
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可。
