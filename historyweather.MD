@@ -173,7 +173,9 @@ dev.off()
 
 and this one is a small-background in the second photo  which i search on the web.<br>
 
-![wheather](https://github.com/ljtyduyu/historyweather/blob/master/Image/weather.png)
+<div  align="center">    
+<img src="https://github.com/ljtyduyu/historyweather/blob/master/Image/weather.png" width = "300" height = "300" alt="wheather" align=center />
+</div>
 
 
 ------------------------------------------------------------------------------------------------
