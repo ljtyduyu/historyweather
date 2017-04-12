@@ -134,7 +134,7 @@ dev.off()
 ```
 
 <div  align="center">    
-<img src="https://github.com/ljtyduyu/historyweather/blob/master/Image/emoji1.png" width = "1000" height = "870" alt="emoji1" align=center />
+<img src="https://github.com/ljtyduyu/historyweather/blob/master/Image/emoji1.png" width = "7500" height = "652.5" alt="emoji1" align=center />
 </div>
 
 
@@ -173,14 +173,14 @@ dev.off()
 ```
 
 <div  align="center">    
-<img src="https://github.com/ljtyduyu/historyweather/blob/master/Image/emoji2.png" width = "800" height = "800" alt="emoji2" align=center />
+<img src="https://github.com/ljtyduyu/historyweather/blob/master/Image/emoji2.png" width = "650" height = "650" alt="emoji2" align=center />
 </div>
 
 
 and this one is a small-background in the second photo  which i search on the web.<br>
 
 <div  align="center">    
-<img src="https://github.com/ljtyduyu/historyweather/blob/master/Image/weather.png" width = "600" height = "600" alt="wheather" align=center />
+<img src="https://github.com/ljtyduyu/historyweather/blob/master/Image/weather.png" width = "500" height = "500" alt="wheather" align=center />
 </div>
 
 
